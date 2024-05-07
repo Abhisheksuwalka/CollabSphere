@@ -1,15 +1,10 @@
 {
-"internships": [
+  "internships": [
     {
       "id": 1,
       "employerId": "99",
       "Role": "Architecture",
-      "skills": [
-        "Python",
-        ".NET",
-        "Javascript",
-        "Database Management"
-      ],
+      "skills": ["Python", ".NET", "Javascript", "Database Management"],
       "experience": "7-9 years",
       "min_salary": "200000",
       "max_salary": "1000000",
@@ -18,11 +13,7 @@
       "job_type": "developer",
       "company_name": "Microsoft",
       "company_url": "https://vonq.io/3uCRIAO",
-      "location": [
-        "Pune",
-        "Bangalore",
-        "Hyderabad"
-      ],
+      "location": ["Pune", "Bangalore", "Hyderabad"],
       "description": [
         "Microsoft is empowering every person and every organization on the planet to do more and achieve more",
         "We have set ourselves three bold ambitions",
@@ -39,12 +30,7 @@
       "id": 2,
       "employerId": "99",
       "Role": "UX/UI designer",
-      "skills": [
-        "Adobe Xd",
-        "Figma",
-        "HTML",
-        "CSS"
-      ],
+      "skills": ["Adobe Xd", "Figma", "HTML", "CSS"],
       "experience": "1-3 years",
       "min_salary": "300000",
       "max_salary": "700000",
@@ -52,10 +38,7 @@
       "job_type": "designer",
       "company_name": "OneLogin",
       "company_url": "http://www.onelogin.com",
-      "location": [
-        "Mumbai",
-        "Pune"
-      ],
+      "location": ["Mumbai", "Pune"],
       "description": [
         "OneLogin needs an experienced software engineer and technical team lead to assume ownership of all things Automation",
         "Join our close knit Quality Engineering team that is responsible for the quality of our product offerings from the beginning of the SDLC all the way through the release to",
@@ -70,11 +53,7 @@
       "id": 3,
       "employerId": "99",
       "Role": "data analyst",
-      "skills": [
-        "Database Management",
-        "Algoritims",
-        "Data Structure"
-      ],
+      "skills": ["Database Management", "Algoritims", "Data Structure"],
       "experience": "1-2 years",
       "min_salary": "100000",
       "max_salary": "500000",
@@ -83,10 +62,7 @@
       "job_type": "developer",
       "company_name": "Cased",
       "company_url": "https://cased.com",
-      "location": [
-        "Delhi",
-        "chennai"
-      ],
+      "location": ["Delhi", "chennai"],
       "description": [
         " we create innovative solutions and workflows for the growing number of security, compliance, and productivity challenges that face software companies.",
         "Having a strong grip on algorithim",
@@ -99,13 +75,7 @@
       "id": 4,
       "employerId": "99",
       "Role": "senior developer",
-      "skills": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "RESTful APIs",
-        "React"
-      ],
+      "skills": ["HTML", "CSS", "Javascript", "RESTful APIs", "React"],
       "experience": "3-7 years",
       "min_salary": "400000",
       "max_salary": "1200000",
@@ -113,10 +83,7 @@
       "job_type": "developer",
       "company_name": "Fluidra North",
       "company_url": "https://www.fluidrausa.com/en",
-      "location": [
-        "Chennai",
-        "Bangalore"
-      ],
+      "location": ["Chennai", "Bangalore"],
       "description": [
         "If you have significant experience in hands-on coding with high level languages",
         "cloud-based technologies",
@@ -133,11 +100,7 @@
       "id": 5,
       "employerId": "99",
       "Role": "Ruby Developer",
-      "skills": [
-        "Ruby",
-        "Rail",
-        "Mongo DB"
-      ],
+      "skills": ["Ruby", "Rail", "Mongo DB"],
       "experience": "5-7 years",
       "min_salary": "300000",
       "max_salary": "1500000",
@@ -145,11 +108,7 @@
       "job_type": "developer",
       "company_name": "BusPatrol",
       "company_url": "https://www.buspatrol.com/careers/",
-      "location": [
-        "Kolkata",
-        "Hyderabad",
-        "Delhi"
-      ],
+      "location": ["Kolkata", "Hyderabad", "Delhi"],
       "description": [
         "Software Development Lead, the successful candidates will be instrumental in executing and delivering well tested code",
         "This position will require you to work in close concert",
@@ -164,12 +123,7 @@
       "id": 6,
       "employerId": "99",
       "Role": "frontend developer",
-      "skills": [
-        "CSS",
-        "HTML",
-        "Javascript",
-        "React"
-      ],
+      "skills": ["CSS", "HTML", "Javascript", "React"],
       "experience": "1-5 years",
       "min_salary": "200000",
       "max_salary": "600000",
@@ -178,10 +132,7 @@
       "job_type": "developer",
       "company_name": "Bison Technologies",
       "company_url": "https://vonq.io/2RbJ1PE",
-      "location": [
-        "Mumbai",
-        "Noida"
-      ],
+      "location": ["Mumbai", "Noida"],
       "description": [
         "As a Senior Software Engineer, you will bring technical expertise in full stack web development to deliver high-quality software solutions",
         "You should embody a passion for continuous improvement, be comfortable working in an agile development environment",
@@ -195,10 +146,7 @@
       "id": 7,
       "employerId": "99",
       "Role": "Senior iOS Developer",
-      "skills": [
-        "iOS 12",
-        "Swift"
-      ],
+      "skills": ["iOS 12", "Swift"],
       "experience": "1-2 years",
       "min_salary": "500000",
       "max_salary": "2000000",
@@ -206,10 +154,7 @@
       "job_type": "developer",
       "company_name": "Sharecare GmbH",
       "company_url": "https://www.sharecare.com/",
-      "location": [
-        "Pune",
-        "chennai"
-      ],
+      "location": ["Pune", "chennai"],
       "description": [
         "Implement new features and maintain the iOS app of Sharecare",
         "Having a strong grip on ios development ",
@@ -223,13 +168,7 @@
       "id": 8,
       "employerId": "99",
       "Role": "Ruby Architecture",
-      "skills": [
-        "Ruby",
-        "RESTful APIs",
-        "Rail",
-        "Database Management",
-        ""
-      ],
+      "skills": ["Ruby", "RESTful APIs", "Rail", "Database Management", ""],
       "experience": "freshers",
       "min_salary": "100000",
       "max_salary": "400000",
@@ -238,11 +177,7 @@
       "job_type": "Architecture",
       "company_name": "universitytees",
       "company_url": "https://universitytees.com/",
-      "location": [
-        "Delhi",
-        "Hyderabad",
-        "Kolkata"
-      ],
+      "location": ["Delhi", "Hyderabad", "Kolkata"],
       "description": [
         "Strong expertise within Ruby on Rails and a deep understanding of web programming in general",
         "Proficient in HTML, JavaScript, CSS, SQL, Git, CLIs, scripting, and Linux",
@@ -256,12 +191,7 @@
       "id": 9,
       "employerId": "99",
       "Role": "Senior Ruby on Rails Developer",
-      "skills": [
-        "Rail",
-        "Ruby",
-        "RESTful APIs",
-        "Data Structure"
-      ],
+      "skills": ["Rail", "Ruby", "RESTful APIs", "Data Structure"],
       "experience": "5-7 years",
       "min_salary": "50000",
       "max_salary": "100000",
@@ -270,10 +200,7 @@
       "job_type": "developer",
       "company_name": "Netguru S.A.",
       "company_url": "https://www.netguru.com",
-      "location": [
-        "Mumbai",
-        "bangalore"
-      ],
+      "location": ["Mumbai", "bangalore"],
       "description": [
         "Have at least 2 years' experience in Ruby on Rails",
         "Able to advice a client/team to make better decisions based on experience",
@@ -288,13 +215,7 @@
       "id": 10,
       "employerId": "99",
       "Role": "UX/UI designer",
-      "skills": [
-        "Adobe Xd",
-        "CSS",
-        "HTML",
-        "Figma",
-        "React"
-      ],
+      "skills": ["Adobe Xd", "CSS", "HTML", "Figma", "React"],
       "experience": "2-3 years",
       "min_salary": "300000",
       "max_salary": "600000",
@@ -302,10 +223,7 @@
       "job_type": "designer",
       "company_name": "Sticker Mule",
       "company_url": "https://www.stickermule.com/careers",
-      "location": [
-        "Noida",
-        "Pune"
-      ],
+      "location": ["Noida", "Pune"],
       "description": [
         "Having a strong grip on adobe XD ",
         "Software Development Lead, the successful candidates will be instrumental in executing and delivering well tested code",
@@ -320,11 +238,7 @@
       "id": 11,
       "employerId": "99",
       "Role": "Program analyst",
-      "skills": [
-        "Data Structure",
-        "Algoritims",
-        "Database Management"
-      ],
+      "skills": ["Data Structure", "Algoritims", "Database Management"],
       "experience": "4-7 years",
       "min_salary": "700000",
       "max_salary": "1500000",
@@ -334,10 +248,7 @@
       "job_type": "program analyst",
       "company_name": "Smaply",
       "company_url": "https://www.smaply.com/careers",
-      "location": [
-        "Delhi",
-        "Hyderabad"
-      ],
+      "location": ["Delhi", "Hyderabad"],
       "description": [
         "Must have great problem solving skills",
         "Having a strong grip on algorithim",
@@ -351,12 +262,7 @@
       "id": 12,
       "employerId": "99",
       "Role": "frontend developer",
-      "skills": [
-        "CSS",
-        "HTML",
-        "Javascript",
-        "React"
-      ],
+      "skills": ["CSS", "HTML", "Javascript", "React"],
       "experience": "8-10 years",
       "min_salary": "700000",
       "max_salary": "1600000",
@@ -366,11 +272,7 @@
       "job_type": "developer",
       "company_name": "Axios",
       "company_url": "http://Axios",
-      "location": [
-        "Pune",
-        "Mumbai",
-        "bangalore"
-      ],
+      "location": ["Pune", "Mumbai", "bangalore"],
       "description": [
         "Worked in environments using Ruby, Python, Node and Javascript",
         "Experience testing services and working with Docker containers",
@@ -384,12 +286,7 @@
       "id": 13,
       "employerId": "99",
       "Role": "UX/UI designer",
-      "skills": [
-        "Figma",
-        "HTML",
-        "CSS",
-        "Adobe Xd"
-      ],
+      "skills": ["Figma", "HTML", "CSS", "Adobe Xd"],
       "experience": "3-5 years",
       "min_salary": "600000",
       "max_salary": "1000000",
@@ -397,9 +294,7 @@
       "job_type": "designer",
       "company_name": "TELUS",
       "company_url": "https://www.telus.com/en/",
-      "location": [
-        "chennai"
-      ],
+      "location": ["chennai"],
       "description": [
         "This role is for a key position within our team as we enter a rapid growth phase",
         "As a Sr. technical member of the team, you will design, develop, and help scale different features/services throughout the full application stack.",
@@ -430,11 +325,7 @@
       "job_type": "Architecture",
       "company_name": "AXOVISION",
       "company_url": "http://www.axovision.com",
-      "location": [
-        "Noida",
-        "bangalore",
-        "Hyderabad"
-      ],
+      "location": ["Noida", "bangalore", "Hyderabad"],
       "description": [
         "We are looking for a Software Engineer to join our growing Software Tech Stack",
         "AXOVISION is developing machine learning models that operate in a fully automated financial trading system",
@@ -462,10 +353,7 @@
       "job_type": "program analyst",
       "company_name": "Sensorberg",
       "company_url": "https://sensorberg.com",
-      "location": [
-        "Mumbai",
-        "Secunderabad"
-      ],
+      "location": ["Mumbai", "Secunderabad"],
       "description": [
         "We're looking for a Mid-Level+ Ruby Backend Developer who enjoys technical IoT challenges",
         "You will work in a team with highly skilled developers and project managers under different IoT projects",
@@ -479,10 +367,7 @@
       "id": 16,
       "employerId": "99",
       "Role": "Senior iOS Developer",
-      "skills": [
-        "iOS 12",
-        "Swift"
-      ],
+      "skills": ["iOS 12", "Swift"],
       "experience": "9-12 years",
       "min_salary": "600000",
       "max_salary": "900000",
@@ -491,11 +376,7 @@
       "job_type": "developer",
       "company_name": "Brazen Technology",
       "company_url": "http://www.brazen.com",
-      "location": [
-        "Noida",
-        "Kolkata",
-        "Delhi"
-      ],
+      "location": ["Noida", "Kolkata", "Delhi"],
       "description": [
         "We are looking for a Mid Level Java Developer to join our team",
         "As part of a growing, fast-paced startup, you will have an opportunity to work collaboratively with our product management",
@@ -511,12 +392,7 @@
       "id": 17,
       "employerId": "99",
       "Role": "Ruby on Rails Developer",
-      "skills": [
-        "Rail",
-        "Ruby",
-        "Database Management",
-        "Data Structure"
-      ],
+      "skills": ["Rail", "Ruby", "Database Management", "Data Structure"],
       "experience": "5-7 years",
       "min_salary": "900000",
       "max_salary": "1300000",
@@ -526,11 +402,7 @@
       "job_type": "developer",
       "company_name": "Kinscape",
       "company_url": "http://kinscape.com",
-      "location": [
-        "Bangalore",
-        "Noida",
-        "Secunderabad"
-      ],
+      "location": ["Bangalore", "Noida", "Secunderabad"],
       "description": [
         "We are looking for a Ruby on Rails Developer to help us develop an innovative new social network, that aims to enhance real-life communities through private, ad-free interaction",
         "To apply you should have at least a few years of Ruby on Rails experience and have at least one consumer-focused Rails app that you can refer us to",
@@ -544,11 +416,7 @@
       "id": 18,
       "employerId": "99",
       "Role": "Senior backend Developer",
-      "skills": [
-        "Data Structure",
-        "Algoritims",
-        "Database Management"
-      ],
+      "skills": ["Data Structure", "Algoritims", "Database Management"],
       "experience": "3-5 years",
       "min_salary": "500000",
       "max_salary": "1000000",
@@ -558,10 +426,7 @@
       "job_type": "developer",
       "company_name": "GOhiring ",
       "company_url": "https://www.gohiring.com/",
-      "location": [
-        "Bangalore",
-        "Hyderabad"
-      ],
+      "location": ["Bangalore", "Hyderabad"],
       "description": [
         "Build smart",
         "customer-driven front- and back-end solutions in extension of our product ecosystem",
@@ -575,11 +440,7 @@
       "id": 19,
       "employerId": "99",
       "Role": "Senior Architecture",
-      "skills": [
-        "Database Management",
-        "Data Structure",
-        "Algoritims"
-      ],
+      "skills": ["Database Management", "Data Structure", "Algoritims"],
       "experience": "8-9 years",
       "min_salary": "1300000",
       "max_salary": "1800000",
@@ -589,11 +450,7 @@
       "job_type": "Architecture",
       "company_name": "Solo Technologies",
       "company_url": "https://worksolo.com",
-      "location": [
-        "Bangalore",
-        "Delhi",
-        "Pune"
-      ],
+      "location": ["Bangalore", "Delhi", "Pune"],
       "description": [
         "You will be a part of an early-stage team that is passionate about building products that truly improve people’s lives",
         "You’re curious, resilient, an owner and a strong team player",
@@ -607,12 +464,7 @@
       "id": 20,
       "employerId": "99",
       "Role": "UX/UI designer",
-      "skills": [
-        "HTML",
-        "CSS",
-        "Adobe Xd",
-        "Figma"
-      ],
+      "skills": ["HTML", "CSS", "Adobe Xd", "Figma"],
       "experience": "3-5 years",
       "min_salary": "800000",
       "max_salary": "1000000",
@@ -622,11 +474,7 @@
       "job_type": "designer",
       "company_name": "Ben Kinney Group Of Companies",
       "company_url": "https://benkinneycompanies.com/who-we-are/",
-      "location": [
-        "Bangalore",
-        "Kolkata",
-        "chennai"
-      ],
+      "location": ["Bangalore", "Kolkata", "chennai"],
       "description": [
         "The  candidate will be highly motivated, able to manage time to deliver without supervision, and has solid communication skills",
         "They will be experienced with making recommendations to the technology and architecture in use",
@@ -640,12 +488,7 @@
       "id": 21,
       "employerId": "99",
       "Role": "UX/UI designer",
-      "skills": [
-        "HTML",
-        "CSS",
-        "Adobe Xd",
-        "Figma"
-      ],
+      "skills": ["HTML", "CSS", "Adobe Xd", "Figma"],
       "experience": "3-5 years",
       "min_salary": "800000",
       "max_salary": "1000000",
@@ -655,11 +498,7 @@
       "job_type": "designer",
       "company_name": "Hyperlink InfoSystem",
       "company_url": "https://www.hyperlinkinfosystem.com/",
-      "location": [
-        "Bangalore",
-        "Kolkata",
-        "chennai"
-      ],
+      "location": ["Bangalore", "Kolkata", "chennai"],
       "description": [
         "The  candidate will be highly motivated, able to manage time to deliver without supervision, and has solid communication skills",
         "They will be experienced with making recommendations to the technology and architecture in use",
@@ -671,4 +510,3 @@
     }
   ]
 }
- 
