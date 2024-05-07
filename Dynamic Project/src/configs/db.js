@@ -5,5 +5,5 @@ require('dotenv').config();
 
 module.exports = () => {
 
-    return mongoose.connect(`mongodb+srv://bourbon:${process.env.ATLASPASS}@internshala.ald5y.mongodb.net/Internshala`);
+    return mongoose.connect(`mongodb+srv://Iae:N9fKwvkVltCgMvcd@iae.twztpms.mongodb.net/?retryWrites=true&w=majority&appName=Iae`);
 }
