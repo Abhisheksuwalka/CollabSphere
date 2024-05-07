@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 module.exports = () => {
   return mongoose.connect(
-    "mongodb+srv://krishna:45K5$U$!gq-C.V2@cluster0.ndxbh.mongodb.net/internshala?retryWrites=true&w=majority",
+    "mongodb+srv://Iae:N9fKwvkVltCgMvcd@iae.twztpms.mongodb.net/?retryWrites=true&w=majority&appName=Iae",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
