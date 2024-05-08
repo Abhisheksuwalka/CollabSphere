@@ -5,5 +5,5 @@ require('dotenv').config();
 
 module.exports = () => {
 
-    return mongoose.connect(`mongodb+srv://Iae:N9fKwvkVltCgMvcd@iae.twztpms.mongodb.net/?retryWrites=true&w=majority&appName=Iae`);
+    return mongoose.connect(`${process.env.MONGO_URI}`);
 }
